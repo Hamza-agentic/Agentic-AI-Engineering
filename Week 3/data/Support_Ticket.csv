@@ -1,0 +1,21 @@
+message,label
+I cannot log into the portal,account
+I forgot my password,account
+My account is locked,account
+I need to reset my credentials,account
+The website is not loading,technical
+The API is not responding,technical
+The server is down,technical
+The application crashes when I login,technical
+My fee payment is missing,finance
+I have a problem with my voucher,finance
+My tuition payment is not updated,finance
+How can I get my fee receipt?,finance
+I want to apply for admission,admission
+What are the admission requirements?,admission
+When does admission start?,admission
+Where can I submit my application?,admission
+I am unable to access my account even after resetting my password,account
+The portal shows an error message whenever I open a page,technical
+I paid my semester fee but the payment status still shows unpaid,finance
+Can I still apply for admission after the application deadline?,admission
